@@ -1,0 +1,12 @@
+[
+  {
+    "groupName": "My AI",
+    "menuList":[
+      {
+        "icon": "assets/ai/openai.webp",
+        "menuName": "My OpenAI",
+        "path": "/chatGpt"
+      }
+    ]
+  }
+]

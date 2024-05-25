@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "56911217429",
+    "firebase_url": "https://alash-sheker-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "alash-sheker",
+    "storage_bucket": "alash-sheker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56911217429:android:589dcac68f560b709d1f1c",
+        "android_client_info": {
+          "package_name": "com.example.shecker_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObmlYMqtafNePW5QRm9ZO92jBDnHn-Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56911217429:android:ccc329198b4cb0929d1f1c",
+        "android_client_info": {
+          "package_name": "com.example.shecker_partners"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObmlYMqtafNePW5QRm9ZO92jBDnHn-Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
